@@ -1,0 +1,5 @@
+{
+  "name": "FinanceCalc Pro",
+  "description": "A professional SaaS web application offering a variety of financial calculations such as simple and compound interest, loan amortization (SAC and Price), and investment simulations. It features interactive charts, data export, and a clean, responsive interface with light and dark modes.",
+  "requestFramePermissions": []
+}
